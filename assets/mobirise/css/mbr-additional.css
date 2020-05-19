@@ -1146,26 +1146,26 @@ section.lazy-placeholder:after {
 }
 .cid-rzlmdhcpNO .nav-tabs .nav-link {
   box-sizing: border-box;
-  color: #232323;
+  color: #ffffff;
   font-style: normal;
   font-weight: 500;
   border-radius: 3px;
   padding: 1rem 3rem;
   margin: 0.4rem .8rem !important;
   transition: color .3s;
-  border: 2px solid #232323;
+  border: 2px solid #ffffff;
 }
 .cid-rzlmdhcpNO .nav-tabs .nav-link:hover {
-  background: #374251;
+  background: #ffffff;
 }
 .cid-rzlmdhcpNO .nav-tabs .nav-link.active {
-  color: #ffffff;
+  color: #000000;
   font-style: normal;
-  border: 2px solid #374251;
-  background: #374251;
+  border: 2px solid #ffffff;
+  background: #ffffff;
 }
 .cid-rzlmdhcpNO .nav-tabs .nav-link.active:hover {
-  border: 2px solid #374251;
+  border: 2px solid #ffffff;
 }
 .cid-rzkUIrDJkJ {
   padding-top: 60px;
